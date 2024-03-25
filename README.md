@@ -1,7 +1,7 @@
 # PolyglotNLP
 PolyglotNLP: A Multilingual Language Detection Model Using spaCy and Machine Learning
 
-This repository documents my journey of creating a language detection model that currently supports German, English, and Spanish, with the intention to expand to more languages. This project is meant as a learning project for myself.
+This repository documents my journey of creating a language detection model that currently supports German, Russian, Italian, Portuguese, English, and Spanish, with the intention to expand to more languages. This project is meant as a learning project for myself.
 
 ## Project Overview
 
