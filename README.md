@@ -5,7 +5,7 @@ This repository documents my journey of creating a language detection model that
 
 ## Project Overview
 
-PolyglotNLP leverages datasets from Tatoeba, a rich source of sentences across numerous languages, to train a model capable of distinguishing between German, English, and Spanish texts. Through a process of data cleaning, normalization, tokenization, and vectorization, this project aims to build a model that not only identifies these languages with high accuracy but also sets the foundation for adding additional languages in the future.
+PolyglotNLP leverages datasets from Tatoeba, a rich source of sentences across numerous languages, to train a model capable of distinguishing between  German, Russian, Italian, Portuguese, English, and Spanish, texts. Through a process of data cleaning, normalization, tokenization, and vectorization, this project aims to build a model that not only identifies these languages with high accuracy but also sets the foundation for adding additional languages in the future.
 
 ## Features
 
